@@ -58,7 +58,7 @@ main{
     gap: 3px;
     color: white;
     text-align: center;
-    line-height: 450px;
+    line-height: 300px;
 
 }
 .row_2 .child{
@@ -76,4 +76,5 @@ main{
     width: 44%;
     height: 80%;
     background-color: rgb(100, 67, 177);
+
 }
